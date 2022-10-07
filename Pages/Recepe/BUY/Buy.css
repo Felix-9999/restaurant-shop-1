@@ -1,0 +1,37 @@
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 10px 15px 7px 8px;
+    margin: 0 auto;
+    display: block;
+    color: #483e81;
+    cursor: pointer;
+    background-color:  #92739e;
+
+}
+
+
+.goodItem{
+    max-width: 37%;
+    /* margin-top: 10px;  */
+
+}
+.BasketItem{
+ margin: 20px auto;
+ max-width: 200px;
+ text-align: center;
+
+}
+.BasketItem button, span{
+    padding: 5px 4px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px 3px 4px 10px;
+    background-color:  #b45ad8;
+    color: #483e81;
+    
+}
+
+.BasketList{
+    max-width: 40%;   
+}

@@ -1,0 +1,29 @@
+.recepe-global {
+    width: 100%;
+    background-image: url("https://www.luxurytopics.com/storage/posts/gallery/2016/Oct/37431/restaurants-with-the-most-beautiful-view.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.recepe img {
+    width: 35%;
+    display: block;
+}
+
+.recepe {
+    margin-left: 80px;
+    padding-top: 150px;
+    width: 80%;
+    /* backdrop-filter: blur(10px);   */
+}
+
+.go-back {
+    padding: 7px;
+    background-color: #9868A6;
+    cursor: pointer;
+    border-radius: 20px 3px 20px;
+    box-shadow: 5px 4px 3px 5px #82929b;
+}

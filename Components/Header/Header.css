@@ -1,0 +1,47 @@
+.active {
+    color: #78ac3400
+}
+
+.global-div {
+    background-image: url("https://media.timeout.com/images/105856827/image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Header {
+    font-size: 2rem;
+    padding: .5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.Header a {
+    /* margin-right: 5rem; */
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+}
+
+
+/* //157, 165, 142 */
+
+.Header a:hover {
+    text-decoration: underline;
+}
+
+.global-text {
+    position: absolute;
+    top: 130px
+}
+
+.vernagir {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Roboto sans-serif;
+}
